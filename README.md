@@ -1,3 +1,9 @@
+Authors
+=================
+Melvin Netia
+
+![image](https://github.com/user-attachments/assets/810f0e95-fa5a-456c-998d-f5f0e08f1552)
+
 # Flasgger
 ## Easy Swagger UI for your Flask API
 
